@@ -1,0 +1,91 @@
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\bin\Debug\net9.0\appsettings.json
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.staticwebassets.endpoints.json
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.exe
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.deps.json
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.runtimeconfig.json
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.dll
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.pdb
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.AssemblyInfoInputs.cache
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.AssemblyInfo.cs
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\scopedcss\bundle\MinimalAPIPeliculas.styles.css
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.MinimalAPIPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.MinimalAPIPeliculas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.build.MinimalAPIPeliculas.props
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPIPeliculas.props
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MinimalAPIPeliculas.props
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.dll
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\refint\MinimalAPIPeliculas.dll
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.pdb
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.genruntimeconfig.cache
+C:\Users\Admin\Pictures\MinimalAPIPeliculas\obj\Debug\net9.0\ref\MinimalAPIPeliculas.dll
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\bin\Debug\net9.0\appsettings.json
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.staticwebassets.endpoints.json
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.exe
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.deps.json
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.runtimeconfig.json
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.dll
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.pdb
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.AssemblyInfoInputs.cache
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.AssemblyInfo.cs
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\scopedcss\bundle\MinimalAPIPeliculas.styles.css
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.MinimalAPIPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.MinimalAPIPeliculas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.build.MinimalAPIPeliculas.props
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPIPeliculas.props
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MinimalAPIPeliculas.props
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.dll
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\refint\MinimalAPIPeliculas.dll
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.pdb
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.genruntimeconfig.cache
+C:\Users\Admin\Music\a\MinimalAPIPeliculas\obj\Debug\net9.0\ref\MinimalAPIPeliculas.dll
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\appsettings.json
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.staticwebassets.endpoints.json
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.exe
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.deps.json
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.runtimeconfig.json
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.dll
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\MinimalAPIPeliculas.pdb
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.AssemblyInfoInputs.cache
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.AssemblyInfo.cs
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\scopedcss\bundle\MinimalAPIPeliculas.styles.css
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.MinimalAPIPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.MinimalAPIPeliculas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.build.MinimalAPIPeliculas.props
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MinimalAPIPeliculas.props
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MinimalAPIPeliculas.props
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.dll
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\refint\MinimalAPIPeliculas.dll
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.pdb
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.genruntimeconfig.cache
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\ref\MinimalAPIPeliculas.dll
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.csproj.AssemblyReference.cache
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalAPIPeliculas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Music\Aguirre Thiago-Gonzalo\MinimalAPIPeliculas\obj\Debug\net9.0\MinimalA.AC259BEC.Up2Date
