@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NJPwWqM4CHI=",
+  "dgSpecHash": "EDvc/zmj3CE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Music\\Aguirre Thiago-Gonzalo\\MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Music\\Aguirre Thiago-Gonzalo\\Izaguirre\\LSO6-Grupo08\\MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",

@@ -552,11 +552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Music\\Aguirre Thiago-Gonzalo\\MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Music\\Aguirre Thiago-Gonzalo\\Izaguirre\\LSO6-Grupo08\\MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj",
       "projectName": "MinimalAPIPeliculas",
-      "projectPath": "C:\\Users\\Admin\\Music\\Aguirre Thiago-Gonzalo\\MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj",
+      "projectPath": "C:\\Users\\Admin\\Music\\Aguirre Thiago-Gonzalo\\Izaguirre\\LSO6-Grupo08\\MinimalAPIPeliculas\\MinimalAPIPeliculas.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Music\\Aguirre Thiago-Gonzalo\\MinimalAPIPeliculas\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Music\\Aguirre Thiago-Gonzalo\\Izaguirre\\LSO6-Grupo08\\MinimalAPIPeliculas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
